@@ -1,16 +1,17 @@
 {
-    "avatar": "/resume/data/1.jpg",
+    "avatar": "/resume/22.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
         "name": "雷岩岩",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "五邑大学",
-        "profession": "计算机科学与技术",
-        "sex": "男",
+        "description": "箱汉子一样工作，像妹子一样生活",
+        "school": "河南师范大学",
+        "profession": "通信工程专业",
+        "sex": "女",
         "education" : "本科",
         "workage": "2016届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "phone": "131 222 90913",
+        "email": "1542410030@qq.com",
+		
     },
     "social":[
         {
